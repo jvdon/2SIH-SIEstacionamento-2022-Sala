@@ -1,2 +1,2 @@
 # Documentos de Requisitos
-## .doc files
+## .doc or .pdf files
